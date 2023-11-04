@@ -6,7 +6,7 @@ oslib = "0.8.1"
 ui = "5.0.0"
 breeze = "2.1.0"
 scalapy = "0.5.2+8-f74f8dfe"
-scrimage = "4.0.32"
+scrimage = "4.0.42"
 
 [libraries]
 alchemist = { module = "it.unibo.alchemist:alchemist", version.ref = "alchemist" }
