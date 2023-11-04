@@ -1,5 +1,5 @@
 [versions]
-alchemist = "24.1.15"
+alchemist = "24.1.16"
 upickle = "2.0.0"
 smile = "2.6.0"
 oslib = "0.8.1"
