@@ -5,7 +5,7 @@ plugins {
     alias(libs.plugins.taskTree) // Helps debugging dependencies among gradle tasks
     scala
     // lastest version of kotlin
-    kotlin("jvm") version "1.7.0"
+    kotlin("jvm") version "1.7.22"
 }
 
 repositories {
