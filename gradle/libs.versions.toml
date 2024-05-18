@@ -1,6 +1,6 @@
 [versions]
 alchemist = "24.1.15"
-upickle = "2.0.0"
+upickle = "3.3.1"
 smile = "2.6.0"
 oslib = "0.8.1"
 ui = "5.0.0"
