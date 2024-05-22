@@ -1,7 +1,7 @@
 [versions]
 alchemist = "24.1.15"
 upickle = "2.0.0"
-smile = "2.6.0"
+smile = "3.1.1"
 oslib = "0.8.1"
 ui = "5.0.0"
 breeze = "2.1.0"
