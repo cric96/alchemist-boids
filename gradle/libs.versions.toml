@@ -2,7 +2,7 @@
 alchemist = "24.1.15"
 upickle = "2.0.0"
 smile = "2.6.0"
-oslib = "0.8.1"
+oslib = "0.11.3"
 ui = "5.0.0"
 breeze = "2.1.0"
 scalapy = "0.5.2+8-f74f8dfe"
